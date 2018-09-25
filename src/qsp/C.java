@@ -2,9 +2,9 @@ package qsp;
 
 public class C {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public static void main(String[] args)
+	{
+       int i=10;
 	}
 
 }
